@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1571690837 source:c:\users\dante\documents\programacion c\tp_laboratorio_1\tp-calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1571693991 c:\users\dante\documents\programacion c\tp_laboratorio_1\tp-calculadora\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1571693907 source:c:\users\dante\documents\programacion c\tp_laboratorio_1\tp-calculadora\funciones.c
+	<stdlib.h>
+	<stdio.h>
+	"funciones.h"
+
